@@ -2,7 +2,6 @@
 **Orchestrating Safety-Aware Visual Narratives via Multi-Agent Cognitive Calibration**
 
 [![Paper](https://img.shields.io/badge/Paper-ACL%20Findings-blue)](https://arxiv.org/)  
-[![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/bogao-code/BookAgent)
 
 ---
 
@@ -98,12 +97,6 @@ compared to prior methods such as StoryGPT-V and MovieAgent.
 ## 🙏 Acknowledgements
 
 We thank **Google AI Studio** for providing an intuitive platform for rapid prototyping and deployment of our interactive demo system.
-
----
-
-## 🔗 Code
-
-👉 https://github.com/bogao-code/BookAgent
 
 ---
 
