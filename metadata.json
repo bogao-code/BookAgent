@@ -1,0 +1,5 @@
+{
+  "name": "AI Cartoon Storybook Generator",
+  "description": "Provide a story, optionally with an image for inspiration, and this application will use AI to generate a beautiful, illustrated cartoon storybook for you.",
+  "requestFramePermissions": []
+}
