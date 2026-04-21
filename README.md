@@ -1,7 +1,7 @@
 # 📖 BookAgent  
 **Orchestrating Safety-Aware Visual Narratives via Multi-Agent Cognitive Calibration**
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%20Findings-blue)](https://arxiv.org/)  
+[![Paper](https://img.shields.io/badge/Paper-ACL%20Findings-blue)](https://arxiv.org/abs/2604.16541)  
 
 ---
 
